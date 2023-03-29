@@ -42,7 +42,7 @@
                   </div>
                 </div>
                 <div class="form-group">
-                  <label class="control-label col-sm-4" for="Password">PassWord:</label>
+                  <label class="control-label col-sm-4" for="Password">Password:</label>
                   <div class="col-sm-6">
                     <input type="password" class="form-control" data-ng-model="user.password" id="txtPassword" name="password" required placeholder="Enter Password Here" maxlength="20" />
 					<!--<span style="color:red" data-ng-show="(loginform.password.$dirty || loginform.password.$touched) && loginform.password.$invalid">
