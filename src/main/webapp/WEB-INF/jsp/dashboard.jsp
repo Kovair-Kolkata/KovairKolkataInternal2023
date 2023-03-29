@@ -56,9 +56,7 @@
 		                    <div id="Employee-Basic-Div" class="panel-body">
 		                        <div class="well well-sm col-sm-12">
 		                            <div id="imgContainerDiv" class="col-sm-4" style="float: left">
-		                                <img src="images/FemaleUser.jpg" id=
-		                                
-		                                "EmpDashboardImg" class="img-rounded" alt="Image" width="150" height="150" />
+		                                <img src="images/FemaleUser.jpg" id="EmpDashboardImg" class="img-rounded" alt="Image" width="150" height="150" />
 		                            </div>
 		                            <div id="emp-basic-info" class="col-sm-8 basicInfo">
 		                                <h2 class="empNameHeading">Scott Allen</h2>
