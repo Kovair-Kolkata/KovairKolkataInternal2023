@@ -47,7 +47,7 @@
                     <input type="password" class="form-control" data-ng-model="user.password" id="txtPassword" name="password" required placeholder="Enter Password Here" maxlength="20" />
 					<!--<span style="color:red" data-ng-show="(loginform.password.$dirty || loginform.password.$touched) && loginform.password.$invalid">
                         <span data-ng-show="loginform.password.$error.required">Password is required.</span>
-                     </span>-->
+                     </span>
                   </div>
                 </div>
                 <div class="form-group">
@@ -62,9 +62,9 @@
                   <div class="col-sm-offset-4 col-sm-8">
                     <button id="btnClick" type="submit" class="btn btn-primary btn-md" data-ng-click="login()">Login</button>
                   </div>
-                  <!--<span style="color:red">
+                  <span style="color:red">
                        <span data-ng-show="inValidLogin">{{errorMsg}}</span>
-                   </span>-->
+                   </span>
                 </div>
               </form>
             </div>

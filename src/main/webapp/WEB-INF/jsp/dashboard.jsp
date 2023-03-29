@@ -31,7 +31,7 @@
                 <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Leave<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Apply Leavess</a></li>
+                        <li><a href="#">Apply Leave</a></li>
                         <li><a href="#">Leave Status</a></li>
                         <li><a href="#">Leave Balance</a></li>
                     </ul>
@@ -62,9 +62,9 @@
 		                                <h2 class="empNameHeading">Scott Allen</h2>
 		                                Designation : Software Engineer
 		                                <br />
-		                                Date of Joining : February-30-2023
+		                                Date of Joining : Delivery
 		                                <br />
-		                                Supervisor : Somesh Ch Roy
+		                                Supervisor : Somesh Roy
 		                                <br />
 		                                Contact No : +14155552671
 		                                <br />
@@ -76,7 +76,7 @@
 		                            </div>
 		                    </div>
 		                </div>
-		                 <div class="panel panel-info">
+		                <!-- <div class="panel panel-info">
 		                    <div class="panel-heading myHeading">My Leave Balance</div>
 		                    <div id="Leave-Basic-Div" class="panel-body">
 		                       
@@ -88,7 +88,7 @@
 		                       
 		                           Available RH : 2.00 &nbsp;&nbsp;		                          
 		                    </div>
-		                </div> 
+		                </div> -->
 		            </div>
 		        </div>
 		    </div>
