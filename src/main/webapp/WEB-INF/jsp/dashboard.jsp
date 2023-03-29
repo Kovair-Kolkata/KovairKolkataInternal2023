@@ -62,9 +62,9 @@
 		                                <h2 class="empNameHeading">Scott Allen</h2>
 		                                Designation : Software Engineer
 		                                <br />
-		                                Date of Joining : Mar-25-2023
+		                                Date of Joining : Mar-26-2023
 		                                <br />
-		                                Supervisor : Somesh Roy
+		                                Supervisor : Somesh Ch Roy
 		                                <br />
 		                                Contact No : +14155552671
 		                                <br />
