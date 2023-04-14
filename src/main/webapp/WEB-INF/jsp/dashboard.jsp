@@ -62,7 +62,7 @@
 		                                <h2 class="empNameHeading">Scott Allen</h2>
 		                                Designation : Software Engineer
 		                                <br />
-		                                Date of Joining : April-16-2024
+		                                Date of Joining : April-31-2024
 		                                <br />
 		                                Supervisor : Somesh Ch Roy
 		                                <br />
