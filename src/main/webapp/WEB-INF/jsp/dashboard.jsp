@@ -64,7 +64,7 @@
 		                                <br />
 		                                Date of Joining : April-30-2023
 		                                <br />
-		                                Supervisor : Somesh Ch Roy
+		                                Supervisor : Somesh Chandra Roy
 		                                <br />
 		                                Contact No : +14155552671
 		                                <br />
